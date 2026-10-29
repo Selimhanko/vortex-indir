@@ -13,6 +13,8 @@ Sağdaki **Releases** bölümünden `VortexOS-Alpha-V1.iso` dosyasını indir.
 5. Ayarlar → Ekran → Grafik denetleyici: VBoxVGA, video belleği 16 MB.
 6. Ayarlar → Depolama → Optik sürücü: indirdiğin ISO.
 7. Başlat. İlk açılışta Kurulum sihirbazı gelir.
+   
+Kurulum sihirbazında dili, kullanıcı adını ve şifreni seç. Disk seçme ekranında **YENİ BOŞ sanal diski** seç ve **Vortex'i kur** → **EVET, SİL VE KUR**'a bas. Gerçek diskini seçme, içindeki her şey silinir.
 
 Disk seçersen dosyaların kalıcı olur. Disksiz (canlı) modda kapatınca her şey silinir.
 
