@@ -3,7 +3,7 @@
 Sıfırdan yazılmış hobi işletim sistemi. Yapımcı: Selimhanko Games.
 
 ## İndir
-Sağdaki **Releases** bölümünden `Vortex-Alpha-yama49.iso` dosyasını indir.
+Sağdaki **Releases** bölümünden `VortexOS-Alpha-V1.iso` dosyasını indir.
 
 ## VirtualBox ile kurulum
 1. VirtualBox'ı kur (virtualbox.org).
