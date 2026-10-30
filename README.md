@@ -7,4 +7,4 @@ Sıfırdan yazılmış hobi işletim sistemi. Yapımcı: Selimhanko Games.
 
    ## Videolar
    - [Vortex kurulumu](https://www.youtu.be.com/watch?v=eb3G1uciY5g&t=20s)
-   - [Nasıl Güncellenir?](https://youtu.be/dahagelmedibekle)
+   - [Nasıl Güncellenir?](https://youtube/dahagelmedibekle)
